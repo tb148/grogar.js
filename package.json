@@ -1,0 +1,24 @@
+{
+  "name": "grogar",
+  "version": "1.0.0",
+  "description": "A simple but working bot for Discord and TBGforums ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tb148/grogar.js.git"
+  },
+  "keywords": [
+    "discord",
+    "tbgs",
+    "bot"
+  ],
+  "author": "Tony Brown <tb148@tuta.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tb148/grogar.js/issues"
+  },
+  "homepage": "https://github.com/tb148/grogar.js#readme"
+}
